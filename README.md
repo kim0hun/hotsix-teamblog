@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://storage.googleapis.com/hotsix-bucket/hotsix-logo.png" alt="핫식스 팀 블로그 로고" width="500" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 
   <h1 style="font-size: 2.5em; color: #FF6347; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);">핫식스 팀 블로그</h1>
   
@@ -109,16 +108,8 @@
 </p>
 
 ## 📈 시스템 아키텍처
-<p align="center">
-  <img src="https://storage.googleapis.com/hotsix-bucket/architecture.png" alt="시스템 아키텍처 이미지" width="800" style="border-radius: 10px;">
-</p>
 
 ## 📊 ERD
-<p align="center">
-  <a href="https://dbdiagram.io/d/hotsix-team-blog-66703968a179551be6110347" target="_blank">
-    <img src="https://storage.googleapis.com/hotsix-bucket/erd.png" alt="ERD 다이어그램 보기" width="800" style="border-radius: 10px;">
-  </a>
-</p>
 
 ## 👥 팀원
 <div align="center">
